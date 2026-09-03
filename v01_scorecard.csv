@@ -1,0 +1,3 @@
+upazila,latest_dtw_units,latest_dtw_area_ha,irrigable_area_ha,dtw_coverage,ha_per_dtw,rainfall_reference_mm,et_reference_mm,dry_season_water_demand_mcm,gwt_max_depth_m,very_high_stress_union_share,stress_score_0_100,p_status,u_status
+Mahadebpur,551,15275,33237,0.4595781809429251,27.722323049001815,1527,1329,193.5,11.5,0.0,27.500000000000004,Naogaon district context only,NOT ESTIMATED
+Sapahar,318,12998,20057,0.648053048810889,40.874213836477985,1425,1246,116.7,18.0,0.8333333333333334,95.83333333333333,Naogaon district context only,NOT ESTIMATED

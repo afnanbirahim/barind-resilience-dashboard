@@ -1,0 +1,14 @@
+{
+  "dashboard_version": "0.1",
+  "model_stage": "Barind V0.2 pilot dashboard",
+  "study_area": [
+    "Mahadebpur",
+    "Sapahar"
+  ],
+  "longitudinal_period": "2001-01 to 2025-12",
+  "primary_model_data": "data/v02_monthly_panel.csv",
+  "source_workbooks": [
+    "source_files/Afnan_Barind_Model_V0_1_FINAL_AUDITED.xlsx",
+    "source_files/Afnan_Barind_V02_Climate_Vegetation_FINAL_AUDITED.xlsx"
+  ]
+}

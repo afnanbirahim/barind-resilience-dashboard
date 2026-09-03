@@ -1,0 +1,3 @@
+upazila,area_sq_km,irrigable_area_ha,main_rivers,ponds_gt25_decimal,population,population_density_per_sq_km,domestic_demand_mcm_per_y,agricultural_demand_mcm_per_y,fisheries_demand_mcm_per_y,industry_demand_mcm_per_y,water_use_2021_mcm,demand_2030_mcm,demand_2041_mcm,stw,dtw,gwt_min_depth_m,gwt_max_depth_m,pra_scarcity,very_high_stress_unions,high,moderate,low,very_low,very-high_share,derived_ordinal_stress_score_0-100
+Mahadebpur,395.52,33237,"Atrai, Shib",4077,308110,779,5.62,279.68,21.44,4.77,311.51,314.02,315.94,70596,571,2.0,11.5,Less to Scarce Free,0,1,0,8,1,0.0,27.500000000000004
+Sapahar,244.6,20057,Punarhava,1784,168781,690,3.08,183.56,9.25,0.01,195.91,196.44,197.09,1099,323,7.5,18.0,Less to Moderate Scarce,5,1,0,0,0,0.8333333333333334,95.83333333333333

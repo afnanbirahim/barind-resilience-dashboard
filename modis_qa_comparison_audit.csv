@@ -1,0 +1,13 @@
+metric,Strict_QA0,QA01,note
+Raw rows,1150,1150,"Expected 1,150 each"
+Blank 16-day observations,217,62,NDVI/EVI blank or zero valid pixels
+Blank share,0.18869565217391304,0.05391304347826087,"Fraction of 1,150 raw observations"
+Completely missing upazila-months,61,7,Out of 600 upazila-months
+NDVI minimum,-0.1300363387978142,0.014109299191374668,Raw valid composites
+NDVI maximum,0.85038579899538,0.841892678949806,Raw valid composites
+EVI minimum,-0.0271068306010929,0.008523315363881402,Raw valid composites
+EVI maximum,0.6467055304993525,0.629565295202341,Raw valid composites
+Mean absolute NDVI difference where both valid,,0.03753115861771384,"QA01 vs strict, paired dates"
+Mean absolute EVI difference where both valid,,0.028196379027970366,"QA01 vs strict, paired dates"
+Recovered raw observations,,155,Previously blank under strict QA
+Interpolated final months,,7,Only fully missing QA01 months; linear temporal interpolation
